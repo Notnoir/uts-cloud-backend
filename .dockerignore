@@ -1,0 +1,22 @@
+# Jangan salin node_modules
+node_modules
+
+# Jangan salin Git repo
+.git
+.gitignore
+
+# Jangan salin environment lokal
+.env
+.env.local
+
+# File log
+npm-debug.log
+yarn-error.log
+
+# Next.js build
+.next
+out
+
+# Editor / OS files
+.DS_Store
+*.swp
