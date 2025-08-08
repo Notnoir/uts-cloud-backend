@@ -1,4 +1,4 @@
-// server js kk
+// server js
 const express = require('express');
 const cors = require('cors');
 const produkRoute = require('./routes/produk');
